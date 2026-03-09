@@ -54,3 +54,11 @@ Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 Desenvolvido por **Luiz Gustavo**.  
 Conecte-se comigo:  
 [GitHub](https://github.com/luizgustavolab) 
+
+## 📲 Download (Beta Android)
+
+Você pode baixar e testar a versão atual do jogo diretamente no seu Android através do link abaixo:
+
+* [Baixar Impostor Game (APK)](https://expo.dev/artifacts/eas/tRBggDfp26t44Vu2Vfu5DF.apk)
+
+> **Nota:** Por ser um instalador independente (fora da Play Store), o Android pode exibir um aviso de "Fonte Desconhecida". Pode prosseguir com a instalação com segurança.
